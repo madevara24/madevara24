@@ -1,4 +1,4 @@
-## 👋 Hi Everyone, I'm [Devara]! I'm Software Engineer From Malang, Indonesia.
+## 👋 Hi Everyone, I'm Devara! I'm Software Engineer From Malang, Indonesia.
 
 - 🌱 I’m currently learning [NodeJS](https://nodejs.org), and [Go Programming Language](https://golang.org/).
 - 👯 I’m looking to collaborate on any open source projects related to JavaScript, PHP and Golang.
