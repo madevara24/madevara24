@@ -1,9 +1,9 @@
 ## 👋 Hi Everyone, I'm Devara! I'm Software Engineer From Malang, Indonesia.
 
 - 🌱 I’m currently learning [NodeJS](https://nodejs.org), and [Go Programming Language](https://golang.org/).
-- 👯 I’m looking to collaborate on any open source projects related to JavaScript, PHP and Golang.
+- 👯 I’m looking to collaborate on any open source projects related to NodeJS, PHP and Golang.
 - 🤔 I’m looking for code review partner that related to my learning path.
-- 💬 Ask me about anything related to JavaScript, Golang and PHP.
+- 💬 Ask me about anything related to NodeJS, Golang and PHP.
 - 📫 Reach out to me directly through my [Email](mailto:adityadevara91@gmail.com).
 
 ## &#x1f4c8; GitHub Stats
