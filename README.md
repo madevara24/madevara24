@@ -1,10 +1,30 @@
-## 👋 Hi Everyone, I'm Devara! I'm Software Engineer From Malang, Indonesia.
+# Welcome to My GitHub Profile 👋
 
-- 🌱 I’m currently learning [NodeJS](https://nodejs.org), and [Go Programming Language](https://golang.org/).
-- 👯 I’m looking to collaborate on any open source projects related to NodeJS, PHP and Golang.
-- 🤔 I’m looking for code review partner that related to my learning path.
-- 💬 Ask me about anything related to NodeJS, Golang and PHP.
-- 📫 Reach out to me directly through my [Email](mailto:adityadevara91@gmail.com).
+Hi, I'm Devara, your average programmer with 4 years of experience. I specialize in backend development, particularly in Go, and have a strong focus on clean architecture and maintainable code.
 
-## &#x1f4c8; GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madevara24&layout=compact&theme=dark)](https://github.com/madevara24/) [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=madevara24&count_private=true&show_icons=true&theme=dark)](https://github.com/madevara24/)
+## 🚧 Under Construction 🚧
+
+Please excuse the mess! This GitHub profile is a work in progress as I reorganize and update the old projects from my uni days to reflect my current skills and experience.
+
+## 💼 What I Do
+
+- **Backend Development**: Experienced in building and maintaining backend services in Go.
+- **Clean Architecture**: Focused on scalable and maintainable code structures.
+- **Database Management**: Strong knowledge of PostgreSQL, including query building and schema management.
+
+## 🏆 Notable Projects
+
+- **[go-gin-boilerplate]**: As the name suggest, my attempt to make a boilerplate for when I need to build a quick REST server.
+- **[go-websocket]**: An attempt to implement websocket in go.
+
+## 🌱 What's Next
+
+I'm currently working on updating and organizing my repositories. Stay tuned for more polished and up-to-date projects soon!
+
+## 📫 Let's Connect
+
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/madevara24/) or via email at [adityadevara91@gmail.com].
+
+---
+
+Thanks for visiting! More updates coming soon.
